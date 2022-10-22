@@ -1,3 +1,5 @@
+# El sistema aún se encuentra en desarrollo por lo que se seguirá actualizando con nuevo codigo.
+
 # Sistema-IR
 El sistema de recuperacion de información se basa en el modelo vectorial para determinar la informacion que debe recuperar dada una consulta.
 
